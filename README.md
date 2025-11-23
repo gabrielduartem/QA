@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # QA Práticas – Testes Manuais e Gherkin
 
 Este repositório contém meus exercícios e estudos de QA, incluindo:
